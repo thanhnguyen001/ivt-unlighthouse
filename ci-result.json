@@ -1,0 +1,58 @@
+[
+  {
+    "path": "/",
+    "score": 0.85,
+    "performance": 0.55,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/dang-ky",
+    "score": 0.95,
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/dang-nhap",
+    "score": 0.95,
+    "performance": 0.95,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/dat-hang?utm_source=site&utm_medium=navbar&utm_campaign=order_request",
+    "score": 0.94,
+    "performance": 0.97,
+    "accessibility": 0.86,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/hop-tac-dau-tu",
+    "score": 0.95,
+    "performance": 0.98,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/khu-cong-nghiep",
+    "score": 0.92,
+    "performance": 0.91,
+    "accessibility": 0.84,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/ky-gui?utm_source=site&utm_medium=navbar&utm_campaign=consignment_request",
+    "score": 0.95,
+    "performance": 0.97,
+    "accessibility": 0.9,
+    "best-practices": 0.93,
+    "seo": 1
+  }
+]
