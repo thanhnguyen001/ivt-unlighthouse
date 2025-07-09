@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 0.85,
-    "performance": 0.55,
+    "score": 0.83,
+    "performance": 0.5,
     "accessibility": 0.9,
     "best-practices": 0.93,
     "seo": 1
@@ -17,8 +17,8 @@
   },
   {
     "path": "/dang-nhap",
-    "score": 0.93,
-    "performance": 0.9,
+    "score": 0.95,
+    "performance": 0.98,
     "accessibility": 0.9,
     "best-practices": 0.93,
     "seo": 1
@@ -26,15 +26,15 @@
   {
     "path": "/dat-hang?utm_source=site&utm_medium=navbar&utm_campaign=order_request",
     "score": 0.94,
-    "performance": 0.96,
+    "performance": 0.97,
     "accessibility": 0.86,
     "best-practices": 0.93,
     "seo": 1
   },
   {
     "path": "/hop-tac-dau-tu",
-    "score": 0.95,
-    "performance": 0.95,
+    "score": 0.92,
+    "performance": 0.86,
     "accessibility": 0.9,
     "best-practices": 0.93,
     "seo": 1
@@ -42,21 +42,29 @@
   {
     "path": "/khu-cong-nghiep",
     "score": 0.88,
-    "performance": 0.75,
+    "performance": 0.74,
     "accessibility": 0.84,
     "best-practices": 0.93,
     "seo": 1
   },
   {
     "path": "/khu-cong-nghiep/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-3",
-    "score": 0.86,
-    "performance": 0.65,
+    "score": 0.88,
+    "performance": 0.72,
     "accessibility": 0.85,
     "best-practices": 0.93,
     "seo": 1
   },
   {
     "path": "/khu-cong-nghiep/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-4",
+    "score": 0.84,
+    "performance": 0.59,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/khu-cong-nghiep/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-5",
     "score": 0.89,
     "performance": 0.77,
     "accessibility": 0.85,
@@ -64,17 +72,9 @@
     "seo": 1
   },
   {
-    "path": "/khu-cong-nghiep/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-5",
-    "score": 0.83,
-    "performance": 0.53,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
     "path": "/khu-cong-nghiep/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-6",
-    "score": 0.84,
-    "performance": 0.58,
+    "score": 0.89,
+    "performance": 0.78,
     "accessibility": 0.85,
     "best-practices": 0.93,
     "seo": 1
@@ -89,8 +89,8 @@
   },
   {
     "path": "/khu-cong-nghiep/chuyen-nhuong-khu-dat-tmdv-38ha-mat-ql10-vu-ban-nam-dinh-2",
-    "score": 0.89,
-    "performance": 0.77,
+    "score": 0.83,
+    "performance": 0.55,
     "accessibility": 0.85,
     "best-practices": 0.93,
     "seo": 1
@@ -98,101 +98,21 @@
   {
     "path": "/ky-gui?utm_source=site&utm_medium=navbar&utm_campaign=consignment_request",
     "score": 0.95,
-    "performance": 0.95,
+    "performance": 0.97,
     "accessibility": 0.9,
     "best-practices": 0.93,
     "seo": 1
   },
   {
     "path": "/tin-cho-thue",
-    "score": 0.91,
-    "performance": 0.85,
+    "score": 0.85,
+    "performance": 0.62,
     "accessibility": 0.84,
     "best-practices": 0.93,
     "seo": 1
   },
   {
     "path": "/tin-cho-thue/cho-thue-nha-kho-3500m2-tai-kcn-yen-phong-bac-ninh-3",
-    "score": 0.86,
-    "performance": 0.65,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-cho-thue/cho-thue-nha-may-sx-kho-xuong-11000m2-tieu-chuan-dap-ung-moi-tieu-chi-vi-tri-dep-2",
-    "score": 0.85,
-    "performance": 0.63,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-cho-thue/cho-thue-nha-xuong-kcn-chau-son-65000m2-nha-thep-tien-che-zamil-cho-thue-on-dinh-lau-dai-1",
-    "score": 0.81,
-    "performance": 0.47,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-rao-ban",
-    "score": 0.91,
-    "performance": 0.88,
-    "accessibility": 0.84,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-rao-ban/-1",
-    "score": 0.85,
-    "performance": 0.61,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-rao-ban/-2",
-    "score": 0.84,
-    "performance": 0.57,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-rao-ban/-3",
-    "score": 0.85,
-    "performance": 0.62,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-rao-ban/-4",
-    "score": 0.87,
-    "performance": 0.71,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-rao-ban/-5",
-    "score": 0.84,
-    "performance": 0.59,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-rao-ban/-6",
-    "score": 0.82,
-    "performance": 0.48,
-    "accessibility": 0.85,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-rao-ban/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-3",
     "score": 0.89,
     "performance": 0.78,
     "accessibility": 0.85,
@@ -200,7 +120,63 @@
     "seo": 1
   },
   {
-    "path": "/tin-rao-ban/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-4",
+    "path": "/tin-cho-thue/cho-thue-nha-may-sx-kho-xuong-11000m2-tieu-chuan-dap-ung-moi-tieu-chi-vi-tri-dep-2",
+    "score": 0.89,
+    "performance": 0.78,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-cho-thue/cho-thue-nha-xuong-kcn-chau-son-65000m2-nha-thep-tien-che-zamil-cho-thue-on-dinh-lau-dai-1",
+    "score": 0.84,
+    "performance": 0.58,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-rao-ban",
+    "score": 0.87,
+    "performance": 0.72,
+    "accessibility": 0.84,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-rao-ban/-1",
+    "score": 0.87,
+    "performance": 0.68,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-rao-ban/-2",
+    "score": 0.88,
+    "performance": 0.72,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-rao-ban/-3",
+    "score": 0.88,
+    "performance": 0.74,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-rao-ban/-4",
+    "score": 0.83,
+    "performance": 0.52,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-rao-ban/-5",
     "score": 0.84,
     "performance": 0.57,
     "accessibility": 0.85,
@@ -208,23 +184,31 @@
     "seo": 1
   },
   {
+    "path": "/tin-rao-ban/-6",
+    "score": 0.88,
+    "performance": 0.75,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-rao-ban/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-3",
+    "score": 0.89,
+    "performance": 0.77,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-rao-ban/ban-9ha-dat-giap-kcn-quang-minh-mat-tien-265m-vi-tri-dep-thuan-loi-lam-kho-van-logistics-4",
+    "score": 0.83,
+    "performance": 0.54,
+    "accessibility": 0.85,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
     "path": "/tin-tuc/c",
-    "score": 0.93,
-    "performance": 0.92,
-    "accessibility": 0.87,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-tuc/c/dau-tu",
-    "score": 0.94,
-    "performance": 0.94,
-    "accessibility": 0.87,
-    "best-practices": 0.93,
-    "seo": 1
-  },
-  {
-    "path": "/tin-tuc/c/du-an",
     "score": 0.95,
     "performance": 0.99,
     "accessibility": 0.87,
@@ -232,17 +216,33 @@
     "seo": 1
   },
   {
+    "path": "/tin-tuc/c/dau-tu",
+    "score": 0.95,
+    "performance": 0.98,
+    "accessibility": 0.87,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
+    "path": "/tin-tuc/c/du-an",
+    "score": 0.93,
+    "performance": 0.93,
+    "accessibility": 0.87,
+    "best-practices": 0.93,
+    "seo": 1
+  },
+  {
     "path": "/tin-tuc/c/kien-thuc",
     "score": 0.92,
-    "performance": 0.88,
+    "performance": 0.86,
     "accessibility": 0.87,
     "best-practices": 0.93,
     "seo": 1
   },
   {
     "path": "/tin-tuc/c/tin-tuc-du-an",
-    "score": 0.94,
-    "performance": 0.96,
+    "score": 0.91,
+    "performance": 0.84,
     "accessibility": 0.87,
     "best-practices": 0.93,
     "seo": 1
@@ -250,7 +250,7 @@
   {
     "path": "/tin-tuc/c/van-ban-phap-luat",
     "score": 0.95,
-    "performance": 0.98,
+    "performance": 0.99,
     "accessibility": 0.87,
     "best-practices": 0.93,
     "seo": 1
